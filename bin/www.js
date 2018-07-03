@@ -21,7 +21,6 @@ function handleFatalError(){
   console.log('Error Stack', err.stack)
   process.exit(1)
 }
-
 process.on('uncauthtException', handleFatalError)
 process.on('unhandledRejection', handleFatalError)
 
