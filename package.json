@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TereOrozcoBon/FrontEndCuboSIIES.git"
+    "url": "git+https://github.com/TereOrozcoBon/FrontEndSIIES.git"
   },
   "author": "Tere Orozco Bon <tereorozcobon@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TereOrozcoBon/FrontEndCuboSIIES/issues"
+    "url": "https://github.com/TereOrozcoBon/FrontEndSIIES/issues"
   },
-  "homepage": "https://github.com/TereOrozcoBon/FrontEndCuboSIIES#readme",
+  "homepage": "https://github.com/TereOrozcoBon/FrontEndSIIES#readme",
   "devDependencies": {
     "standard": "^11.0.1"
   },
